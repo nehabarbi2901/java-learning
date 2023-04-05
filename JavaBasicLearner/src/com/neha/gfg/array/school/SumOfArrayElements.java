@@ -1,8 +1,8 @@
 package com.neha.gfg.array.school;
 
-/*Given an integer array arr of size n, you need to sum the elements of arr.
+/**Given an integer array arr of size n, you need to sum the elements of arr.
  * 
- */
+**/
 public class SumOfArrayElements {
 
 	 public static int sumElement(int[]arr, int n){
